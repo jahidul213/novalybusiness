@@ -1,0 +1,44 @@
+/* --responsive--*/
+@media only screen and (max-width:600px){
+
+  	#homepage .home-center h1{
+    font-size: 22px;
+  }
+	#homepage .home-center p{
+    font-size: 17px;
+  }
+  	#about .card {
+    margin-top: 20px;
+  }
+ 	#business {
+    margin-top: 62pc;
+  }
+ 	#counter {
+    margin-top: -97px;
+  }
+	.team-content h2{
+   font-size: 27px;
+  }
+  	#company-image .card {
+    margin-top: 20px;
+  }
+   	#Skills .skills-image {
+    margin-top: 20px;
+  }
+   	#agents h1 {
+    font-size: 27px;
+  }
+  #agents .card {
+    margin-top: 20px;
+  }
+  #testimonal h2 {
+    font-size: 27px;
+  }
+  #testimonal .col-sm-6 {
+    width: 100%;
+    height: 0px;
+  }
+  .footer {
+    margin-top: 20pc;
+  }
+}
